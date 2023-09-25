@@ -1,0 +1,15 @@
+[theme]
+#Primary Color For Interactive Elements
+primaryColor = "#f72585"
+
+#Background Color For Main Content Area
+backgroundColor = "#001427"
+
+#Background Color For Sidebar and Widgets
+secondaryBackgroundColor = "#4361ee"
+
+#Text Color
+textColor = "#FFF"
+
+#Font Family
+font = "sans serif"
