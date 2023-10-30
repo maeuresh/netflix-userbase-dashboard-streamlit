@@ -10,7 +10,7 @@ age_labels = ["0-10", "11-20", "21-30", "31-40","41-50","51-60","61-70","71-80",
 
 @st.cache_data
 def get_data_from_excel():
-	df = pd.read_csv("F:/Mayuresh/Projects/Netflix Userbase/Netflix Userbase.csv")
+	df = pd.read_csv("Netflix Userbase.csv")
 	return df
 
 df = get_data_from_excel()
